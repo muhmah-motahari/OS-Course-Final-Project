@@ -1,5 +1,5 @@
 
-# FileManager cli - 1.0 (2023 Feb 07)
+# FileManager CLI - 1.0
 
 ## Commands:
 ```  
